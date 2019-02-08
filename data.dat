@@ -1,0 +1,38 @@
+_person
+name:Emmanuel Macron
+function:president
+country:france
+_end
+
+_person
+name:Filipe Nyusi
+function:president
+country:mozambique
+_end
+
+_person
+name:Carlos Agostinho do Rosário
+function:prime minister
+country:mozambique
+_end
+
+_person
+name:Édouard Philippe
+function:primer minister
+country:france
+_end
+
+_location
+name:paris
+function:capital
+country:france
+_end
+
+_location
+name:Maputo
+function:capital
+country:mozambique
+_end
+
+
+
